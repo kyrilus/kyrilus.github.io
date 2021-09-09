@@ -1,9 +1,0 @@
-Website Project
-
-Name: This or that
-Purpose: to gather trends on what peoples preferences are in various categories: cars, city to live, job, 
-
-Development:
-
-1. Build a nav bar
-2. build the body: split column layout
