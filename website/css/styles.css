@@ -11221,4 +11221,9 @@ textarea.form-control-lg {
   }
 }
 
+header {
+  padding-top: 9.5rem;
+  padding-bottom: 6rem;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
